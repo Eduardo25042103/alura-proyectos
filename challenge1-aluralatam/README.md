@@ -43,7 +43,8 @@ git clone https://github.com/Eduardo25042103/alura-proyectos
 
 2. Instala las dependencias:
 ```bash
-pip install pandas matplotlib```
+pip install pandas matplotlib
+```
 
 ## 🚀 Uso
 
