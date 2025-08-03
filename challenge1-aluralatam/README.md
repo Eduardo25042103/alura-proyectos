@@ -1,6 +1,6 @@
 # Análisis de Datos AluraStore Latam 📊
 
-Este proyecto analiza datos de ventas y métricas de rendimiento de cuatro tiendas de AluraStore en Latinoamérica.
+Este proyecto analiza datos de ventas y métricas de rendimiento de cuatro tiendas de AluraStore en Latinoamérica, para vender una según un análisis realizado.
 
 ## 📋 Contenido del Análisis
 
