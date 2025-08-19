@@ -73,4 +73,5 @@ Eduardo Sánchez
 
 ## 🙏 Agradecimientos
 - Alura Latam
-- Challenge Data Science
+- Oracle 
+- Programa ONE
